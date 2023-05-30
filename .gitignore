@@ -1,0 +1,91 @@
+# Compiled class files
+target/
+
+# Maven specific files
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+
+# Compiled source
+out/
+
+# Logs and reports
+logs/
+*.log
+*.log.*
+*.txt
+*.xml
+*.html
+*.csv
+
+# Generated documentation
+site/
+javadoc/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Operating System-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore local configuration file (rename to your needs)
+local-config.properties
+
+# Ignore target files from popular IDEs
+.classpath
+.project
+.settings/
+*.sublime-workspace
+*.idea/workspace.xml
+*.idea/tasks.xml
+*.idea/dictionaries
+*.idea/vcs.xml
+*.idea/jsLibraryMappings.xml
+*.idea_modules/
+*.iml
+
+# Ignore Maven wrapper
+mvnw
+.mvn/wrapper/
+
+# Ignore IntelliJ IDEA-specific files
+*.iml
+*.ipr
+*.iws
+.idea/
+.idea_modules/
+
+# Ignore Eclipse-specific files
+.classpath
+.project
+.settings/
+target/
+.metadata/
+bin/
+*.tmp
+*.bak
+*.swp
+*.nfs*
+*~.nib
+local.properties
+.settings/
+.loadpath
+recommenders/
+.buildpath
+.springBeans
+.codan/

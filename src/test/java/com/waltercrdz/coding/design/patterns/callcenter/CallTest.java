@@ -1,5 +1,6 @@
 package com.waltercrdz.coding.design.patterns.callcenter;
 
+import com.waltercrdz.coding.challenges.callcenter.Call;
 import org.junit.Assert;
 import org.junit.Test;
 

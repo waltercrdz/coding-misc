@@ -1,7 +1,6 @@
 package com.waltercrdz.coding.design.patterns.singleton;
 
 import com.waltercrdz.coding.design.patterns.command.*;
-import com.waltercrdz.design.patterns.command.*;
 
 import java.util.HashMap;
 import java.util.Objects;

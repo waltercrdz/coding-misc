@@ -1,4 +1,4 @@
-package com.waltercrdz.coding.datastructures.codility;
+package com.waltercrdz.coding.challenges.codility;
 
 public class TapeEquilibrium {
     /**

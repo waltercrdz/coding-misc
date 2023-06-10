@@ -1,4 +1,4 @@
-package com.waltercrdz.coding.datastructures.crackingcodinginterview;
+package com.waltercrdz.coding.challenges.classics;
 
 import com.personal.datastructures.my.implement.SimpleLinkedList;
 

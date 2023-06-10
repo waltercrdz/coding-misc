@@ -1,4 +1,4 @@
-package com.waltercrdz.coding.datastructures;
+package com.waltercrdz.coding.challenges.classics;
 
 import java.util.*;
 

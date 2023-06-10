@@ -1,4 +1,4 @@
-package com.waltercrdz.coding.design.patterns.callcenter;
+package com.waltercrdz.coding.challenges.callcenter;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.waltercrdz.coding.datastructures;
+package com.waltercrdz.coding.datastructures.algorithms;
 
 public class MergeSort {
     public static void main(String[] args) {

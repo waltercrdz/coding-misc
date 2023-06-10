@@ -1,4 +1,4 @@
-package com.waltercrdz.coding.design.patterns.callcenter;
+package com.waltercrdz.coding.challenges.callcenter;
 
 import java.util.Random;
 import java.util.concurrent.TimeUnit;

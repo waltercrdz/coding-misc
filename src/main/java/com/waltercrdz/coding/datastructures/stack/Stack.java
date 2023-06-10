@@ -1,4 +1,4 @@
-package com.waltercrdz.coding.datastructures.implement;
+package com.waltercrdz.coding.datastructures.stack;
 
 import java.util.Objects;
 
